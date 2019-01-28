@@ -86,7 +86,7 @@ void displayMenu()
 {
 	cout << "\n\tAirline Reservation Menu\n"
 		<< "*****************************************\n"
-		<< " Choose From the Following Options (1-6):\n\n"
+		<< " Choose From the Following Options (1-7):\n\n"
 		<< " 1. Reserve Seat\n"
 		<< " 2. Display Seating Chart\n"
 		<< " 3. Display Number of Seats Available in Row\n"
